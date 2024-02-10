@@ -1,8 +1,8 @@
-### Hello world 👋
+### Hello 👋
 
 #### Aspire to be a Backend Engineer
 
-- ⚙️ `.go` enthusiast!
+- ⚙️ I enjoy doing stuff with `.go`.
 - 🌱 Currently interested on learning full-stack using Go.
 
 <a href="https://www.linkedin.com/in/daniel-osvaldo-rahmanto-297081218/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
